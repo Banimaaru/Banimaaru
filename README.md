@@ -28,9 +28,9 @@
 - *Advanced Computing, Microcamp*
 
 ## Want to find me?
-- **Email:** [andreluizgianini9@gmail.com](mailto:andreluizgianini9@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)
-- **Pronouns:** he/him
+- *Email:* [andreluizgianini9@gmail.com](mailto:andreluizgianini9@gmail.com)
+- *X:* [https://x.com/NoHearEvil](linkto:https://x.com/NoHearEvil)
+- *Pronouns:* he/him
 
 ---
 
