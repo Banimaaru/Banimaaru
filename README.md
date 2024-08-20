@@ -2,6 +2,7 @@
 # Hello, stranger.
 
 **Web Developer**
+<br>
 *I think therefore i am*
 ---
 
