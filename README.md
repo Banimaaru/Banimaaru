@@ -2,7 +2,7 @@
 # Hello, stranger.
 
 **Web Developer**
-
+- *I think therefore i am*
 ---
 
 <img align="left" src="https://github.com/Banimaaru/Banimaaru/blob/main/4KGysVwe.jpeg" width="150" style="margin-right: 20px;" />
