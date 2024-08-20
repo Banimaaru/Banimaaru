@@ -2,8 +2,9 @@
 # Hello, stranger.
 
 **Web Developer**
-<br>
-*I think therefore i am*
+
+<p>*I think therefore i am*</p>
+
 ---
 
 <img align="left" src="https://github.com/Banimaaru/Banimaaru/blob/main/4KGysVwe.jpeg" width="150" style="margin-right: 20px;" />
