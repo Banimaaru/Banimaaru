@@ -1,5 +1,5 @@
 
-# 🌐 About Me
+# Hello, stranger.
 
 **Web Developer**
 
