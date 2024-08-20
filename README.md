@@ -29,7 +29,7 @@
 
 ## Want to find me?
 - *Email:* [andreluizgianini9@gmail.com](mailto:andreluizgianini9@gmail.com)
-- *X:* [https://x.com/NoHearEvil](andreluizgianini9@gmail.com)
+- *X:* [https://x.com/NoHearEvil](https://x.com/NoHearEvil)
 - *Pronouns:* he/him
 
 ---
