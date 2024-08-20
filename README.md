@@ -3,7 +3,7 @@
 
 **Web Developer**
 
-<p>*I think therefore i am*</p>
+<p>I think therefore i am</p>
 
 ---
 
