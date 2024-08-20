@@ -18,7 +18,7 @@
 
 <br clear="left"/>
 
-<img align="left" src="./japanese tree purple.jpeg" width="150" style="margin-right: 20px;" />
+<img align="left" src="https://github.com/Banimaaru/Banimaaru/blob/main/OHcQXYB5.jpeg" width="150" style="margin-right: 20px;" />
 
 #### Frontend
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-9B59B6?style=flat&logo=javascript&logoColor=white)
