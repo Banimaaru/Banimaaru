@@ -26,6 +26,7 @@
 
 ## I know:
 - *Advanced Computing, Microcamp*
+- *Basic editing, Me*
 
 ## Want to find me?
 - *Email:* [andreluizgianini9@gmail.com](mailto:andreluizgianini9@gmail.com)
